@@ -1,3 +1,4 @@
+// Estrutura inicial do app
 export function App() {
   return (
     <div>
